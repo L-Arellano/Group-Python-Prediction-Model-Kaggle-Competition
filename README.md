@@ -59,14 +59,6 @@ Libraries used for the analysis include:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Fernanda Cortes, Jeronimo de la Ossa, Priscilla Chacur, Clarisse Andrea, Luis Arellano & Catarina Jesus - [Your Emails Here]
-
-Project Link: [https://github.com/YOUR-USERNAME/YOUR-PROJECT-NAME](https://github.com/L-Arellano/Group-Python-Prediction-Model-Kaggle-Competition)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/L-Arellano/Group-Python-Prediction-Model-Kaggle-Competition.svg?style=for-the-badge
