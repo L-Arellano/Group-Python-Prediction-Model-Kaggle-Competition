@@ -33,6 +33,7 @@
       <ul>
         <li><a href="#data-introduction">Data Introduction</a></li>
         <li><a href="#libraries">Libraries</a></li>
+        <li><a href="#kaggle-competition">Kaggle Competition</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -57,8 +58,11 @@ Libraries used for the analysis include:
 - matplotlib, seaborn: Data visualization.
 - imblearn, plotly: Data resampling and interactive plots.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Kaggle Competition
 
+This project was designed for a Kaggle competition with the intention to maximize accuracy. Models were intentionally overfitted to achieve the best possible performance in the competition's specific context.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/L-Arellano/Group-Python-Prediction-Model-Kaggle-Competition.svg?style=for-the-badge
